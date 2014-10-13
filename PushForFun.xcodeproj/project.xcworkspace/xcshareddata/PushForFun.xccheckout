@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1843E335-CB77-4925-AB4A-A4E280E28014</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PushForFun</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ABF839F3-AFE8-47C9-8496-3B64CA228D5F</key>
+		<string>https://github.com/raulgomez/PushForFun.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PushForFun.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ABF839F3-AFE8-47C9-8496-3B64CA228D5F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/raulgomez/PushForFun.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ABF839F3-AFE8-47C9-8496-3B64CA228D5F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ABF839F3-AFE8-47C9-8496-3B64CA228D5F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PushForFun-Git</string>
+		</dict>
+	</array>
+</dict>
+</plist>

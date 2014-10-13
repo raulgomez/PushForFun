@@ -27,8 +27,8 @@
 		A42BC3D819E25D6B00B5A44B /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = A42BC3D519E25D6B00B5A44B /* XPathQuery.m */; };
 		A42BC3DA19E25E0700B5A44B /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = A42BC3D919E25E0700B5A44B /* libxml2.dylib */; };
 		A42BC3DD19E260F000B5A44B /* Post.m in Sources */ = {isa = PBXBuildFile; fileRef = A42BC3DC19E260F000B5A44B /* Post.m */; };
-		A42BC3E019E2619400B5A44B /* CustomTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A42BC3DF19E2619400B5A44B /* CustomTableViewCell.m */; };
 		A4646E4919E3AD3F00714798 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4646E4819E3AD3F00714798 /* MainViewController.m */; };
+		A4DA6C3A19EBBD48002A15FC /* CustomTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A4DA6C3919EBBD48002A15FC /* CustomTableViewCell.m */; };
 		A4E3F64919E97C7500360BF7 /* Header.png in Resources */ = {isa = PBXBuildFile; fileRef = A4E3F64819E97C7500360BF7 /* Header.png */; };
 		A4E3F64B19E9806900360BF7 /* Button.png in Resources */ = {isa = PBXBuildFile; fileRef = A4E3F64A19E9806900360BF7 /* Button.png */; };
 /* End PBXBuildFile section */
@@ -73,10 +73,10 @@
 		A42BC3D919E25E0700B5A44B /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
 		A42BC3DB19E260F000B5A44B /* Post.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Post.h; sourceTree = "<group>"; };
 		A42BC3DC19E260F000B5A44B /* Post.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Post.m; sourceTree = "<group>"; };
-		A42BC3DE19E2619400B5A44B /* CustomTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CustomTableViewCell.h; path = ../CustomTableViewCell.h; sourceTree = "<group>"; };
-		A42BC3DF19E2619400B5A44B /* CustomTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CustomTableViewCell.m; path = ../CustomTableViewCell.m; sourceTree = "<group>"; };
 		A4646E4719E3AD3F00714798 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		A4646E4819E3AD3F00714798 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		A4DA6C3819EBBD48002A15FC /* CustomTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomTableViewCell.h; sourceTree = "<group>"; };
+		A4DA6C3919EBBD48002A15FC /* CustomTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomTableViewCell.m; sourceTree = "<group>"; };
 		A4E3F64819E97C7500360BF7 /* Header.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Header.png; sourceTree = "<group>"; };
 		A4E3F64A19E9806900360BF7 /* Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -145,10 +145,10 @@
 				A42BC3C819E25BAF00B5A44B /* Model */,
 				A42BC39F19E2591900B5A44B /* AppDelegate.h */,
 				A42BC3A019E2591900B5A44B /* AppDelegate.m */,
+				A4DA6C3819EBBD48002A15FC /* CustomTableViewCell.h */,
+				A4DA6C3919EBBD48002A15FC /* CustomTableViewCell.m */,
 				A42BC3A219E2591900B5A44B /* Main_iPhone.storyboard */,
 				A42BC3A519E2591900B5A44B /* Main_iPad.storyboard */,
-				A42BC3DE19E2619400B5A44B /* CustomTableViewCell.h */,
-				A42BC3DF19E2619400B5A44B /* CustomTableViewCell.m */,
 				A4646E4719E3AD3F00714798 /* MainViewController.h */,
 				A4646E4819E3AD3F00714798 /* MainViewController.m */,
 				A42BC3A819E2591900B5A44B /* ViewController.h */,
@@ -326,7 +326,7 @@
 				A4646E4919E3AD3F00714798 /* MainViewController.m in Sources */,
 				A42BC3A119E2591900B5A44B /* AppDelegate.m in Sources */,
 				A42BC39D19E2591900B5A44B /* main.m in Sources */,
-				A42BC3E019E2619400B5A44B /* CustomTableViewCell.m in Sources */,
+				A4DA6C3A19EBBD48002A15FC /* CustomTableViewCell.m in Sources */,
 				A42BC3DD19E260F000B5A44B /* Post.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
